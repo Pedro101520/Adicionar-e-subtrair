@@ -1,0 +1,40 @@
+.posicao{
+    position: relative;
+    top: 0px;
+    left: 580px;
+}
+.mais{
+    height: 40px;
+    background-color: black;
+    border: 0;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 40px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px;
+}
+.mais:hover{
+    transform: scale(1.05);
+}
+.menos:hover{
+    transform: scale(1.05);
+}
+.menos{
+    height: 40px;
+    background-color: black;
+    border: 0;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 40px;
+    margin-left: 20px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px;
+}
+.texto{
+    font-size: 50px;
+    text-align: center;
+}
